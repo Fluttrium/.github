@@ -64,18 +64,6 @@ Full cycle — from analytics and design to deployment and support.
 
 ---
 
-## 📂 Projects
-
-| Repository | Description |
-|:---|:---|
-| [**SYNERGIA**](https://github.com/Fluttrium/SYNERGIA) | Web platform for a non-profit organization |
-| [**FLUTTRIUM-WEB-NEXT**](https://github.com/Fluttrium/FLUTTRIUM-WEB-NEXT) | Fluttrium corporate website built with Next.js |
-| [**Dobrynya**](https://github.com/Fluttrium/Dobrynya) | Website for the Dobrynya shopping center |
-| [**knifes-shop**](https://github.com/Fluttrium/knifes-shop) | E-commerce platform |
-| [**ReusVertus**](https://github.com/Fluttrium/ReusVertus) | TypeScript web application |
-
----
-
 ## 🤝 Trusted By
 
 <div align="center">
