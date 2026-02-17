@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0078D4&height=220&section=header&text=FLUTTRIUM&fontSize=72&fontColor=FFFFFF&fontAlignY=35&desc=Создаём%20цифровые%20продукты,%20которые%20работают&descSize=18&descColor=8B949E&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0078D4&height=220&section=header&text=FLUTTRIUM&fontSize=72&fontColor=FFFFFF&fontAlignY=35&desc=Building%20digital%20products%20that%20work&descSize=18&descColor=8B949E&descAlignY=55&animation=fadeIn" width="100%" />
 
 <br/>
 
@@ -19,15 +19,15 @@
 
 </div>
 
-## 🏢 О нас
+## 🏢 About Us
 
-**Fluttrium** — IT-компания, которая проектирует и разрабатывает мобильные приложения, веб-платформы и цифровые решения для бизнеса. Мы специализируемся на кросс-платформенной разработке на **Flutter** и современном веб-стеке, помогая клиентам экономить до 50% бюджета без потери качества.
+**Fluttrium** is an IT company that designs and develops mobile apps, web platforms, and digital solutions for businesses. We specialize in cross-platform development with **Flutter** and a modern web stack, helping clients save up to 50% of their budget without compromising quality.
 
-Полный цикл — от аналитики и дизайна до публикации и поддержки.
+Full cycle — from analytics and design to deployment and support.
 
 ---
 
-## 🛠 Технологии
+## 🛠 Tech Stack
 
 <div align="center">
 
@@ -64,39 +64,39 @@
 
 ---
 
-## 📂 Проекты
+## 📂 Projects
 
-| Репозиторий | Описание |
+| Repository | Description |
 |:---|:---|
-| [**SYNERGIA**](https://github.com/Fluttrium/SYNERGIA) | Веб-платформа для некоммерческой организации |
-| [**FLUTTRIUM-WEB-NEXT**](https://github.com/Fluttrium/FLUTTRIUM-WEB-NEXT) | Корпоративный сайт Fluttrium на Next.js |
-| [**Dobrynya**](https://github.com/Fluttrium/Dobrynya) | Сайт для торгового центра «Добрыня» |
-| [**knifes-shop**](https://github.com/Fluttrium/knifes-shop) | E-commerce платформа |
-| [**ReusVertus**](https://github.com/Fluttrium/ReusVertus) | Веб-приложение на TypeScript |
+| [**SYNERGIA**](https://github.com/Fluttrium/SYNERGIA) | Web platform for a non-profit organization |
+| [**FLUTTRIUM-WEB-NEXT**](https://github.com/Fluttrium/FLUTTRIUM-WEB-NEXT) | Fluttrium corporate website built with Next.js |
+| [**Dobrynya**](https://github.com/Fluttrium/Dobrynya) | Website for the Dobrynya shopping center |
+| [**knifes-shop**](https://github.com/Fluttrium/knifes-shop) | E-commerce platform |
+| [**ReusVertus**](https://github.com/Fluttrium/ReusVertus) | TypeScript web application |
 
 ---
 
-## 🤝 Нам доверяют
+## 🤝 Trusted By
 
 <div align="center">
 
-**Газпром нефть** · **ВОСВОД** · **SleepTech** · **ТЦ Добрыня**
+**Gazprom Neft** · **VOSVOD** · **SleepTech** · **Dobrynya Mall**
 
-и другие компании в ритейле, страховании и логистике
+and other companies in retail, insurance, and logistics
 
 </div>
 
 ---
 
-## 💼 Что мы делаем
+## 💼 What We Do
 
 ```
-📱  Мобильные приложения     — Flutter / React Native, iOS & Android
-🌐  Веб-сайты и платформы    — React, Next.js, TypeScript
-🤖  Telegram-боты            — автоматизация и корпоративное обучение
-🎨  UI/UX дизайн             — Figma, прототипирование
-🔍  SEO и реклама            — Яндекс Директ, оптимизация
-⚙️  IT-аудит и консалтинг    — анализ, стратегия, масштабирование
+📱  Mobile Apps              — Flutter / React Native, iOS & Android
+🌐  Websites & Platforms     — React, Next.js, TypeScript
+🤖  Telegram Bots            — Automation & corporate training
+🎨  UI/UX Design             — Figma, prototyping
+🔍  SEO & Advertising        — Yandex Direct, optimization
+⚙️  IT Audit & Consulting    — Analysis, strategy, scaling
 ```
 
 ---
@@ -105,10 +105,10 @@
 
 <br/>
 
-**Готовы обсудить проект?**
+**Ready to discuss a project?**
 
 <a href="https://fluttrium.com">
-  <img src="https://img.shields.io/badge/Связаться_с_нами-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Get_in_Touch-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
 <br/><br/>
